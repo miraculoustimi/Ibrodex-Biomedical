@@ -1,0 +1,9 @@
+<html>
+<head>
+<title> IBRODEX BIOMEDICAL</title>
+</head>
+<body bgcolor="brown">
+maintenace, services, supplies, and installation of hospital, medical laboratory, surgical, and scientific equipment.
+</body>
+</html>
+	
